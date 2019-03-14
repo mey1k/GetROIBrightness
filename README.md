@@ -24,4 +24,4 @@ None
 
 ## Acknowledgments
 
-* Do you want to know how to get average Brightness in pixel data
+* Do you want to know how to get average Brightness in pixel data?
